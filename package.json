@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/z3by/vuepress-plugin-flexsearch"
+    "url": "https://github.com/GuilhermeErmel/vuepress-plugin-flexsearch"
   },
   "keywords": [
     "vuepress-plugin-flexsearch",
@@ -23,12 +23,12 @@
     "vuepress"
   ],
   "author": {
-    "name": "Ahmad Mostafa",
-    "email": "zoaby.am@gmail.com",
-    "url": "https://github.com/z3by"
+    "name": "Guilherme Ermel",
+    "email": "guilherme.ermel@skyinformatica.com.br",
+    "url": "https://github.com/GuilhermeErmel"
   },
   "license": "MIT",
-  "homepage": "https://github.com/z3by/vuepress-plugin-flexsearch#readme",
+  "homepage": "https://github.com/GuilhermeErmel/vuepress-plugin-flexsearch#readme",
   "devDependencies": {
     "conventional-changelog-cli": "2.0.31",
     "he": "^1.2.0",
